@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: threebodysolution
+Version: 0.1.0
+Summary: A symbolic shell classifier that detects order in chaotic three body dynamics
+Author-email: Your Name <you@example.com>
+License: MIT
+Keywords: three body,chaos,symbolic,classifier
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Dynamic: license-file
+
+# ThreeBodySolution
+
+ThreeBodySolution is a Python package that implements a symbolic shell classifier for predicting adaptive transitions in chaotic three body systems.
+It identifies noetic contraction spikes in loss curves and field data, making it possible to forecast bifurcations before they happen.
+
+## Installation
+
+With a Python 3 interpreter activated:
+
+
+## Usage
+
+```python
+from threebodysolution.classifier import ShellDetector
+
+detector = ShellDetector()
+result = detector.analyze(time_series_data)
+print(result)

@@ -1,0 +1,13 @@
+[project]
+name = "threebodysolution"
+version = "0.1.0"
+description = "A symbolic shell classifier that detects order in chaotic three body dynamics"
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+keywords = [ "three body", "chaos", "symbolic", "classifier" ]
+dependencies = [
+  # list runtime dependencies here, for example "numpy", "scipy"
+]

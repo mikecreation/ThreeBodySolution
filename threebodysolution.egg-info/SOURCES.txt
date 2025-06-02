@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+tests/test_basic.py
+threebodysolution/__init__.py
+threebodysolution/classifier.py
+threebodysolution.egg-info/PKG-INFO
+threebodysolution.egg-info/SOURCES.txt
+threebodysolution.egg-info/dependency_links.txt
+threebodysolution.egg-info/top_level.txt
