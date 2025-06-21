@@ -1,13 +1,13 @@
-MIT License
+Custom License by Michael Zot
 
-Copyright (c) 2025 Michael Zot
+You may view, use, and modify this code for personal, research, or educational purposes.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the Software), to deal
-in the Software without restriction including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software and to permit persons to whom the Software is furnished to do
-so subject to the following conditions:
+You may NOT:
+- Sell this code or any derivative work
+- Use it in a commercial application
+- Remove credit or attribution to the original author
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+If you use this code publicly, attribution must be prominently displayed:
+"Originally created by Michael Zot (mikecreation on GitHub)"
+
+Contact me for licensing options if you want to use this code commercially.
